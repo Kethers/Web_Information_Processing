@@ -1,0 +1,357 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+<title>全职教师-哈尔滨工业大学（深圳）计算机科学与技术学院</title><META Name="keywords" Content="哈尔滨工业大学（深圳）计算机科学与技术学院,全职教师" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="Robots" contect="all"> 
+
+<meta name="description" content="">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+
+<link href="../../dfiles/11447/templets/css/bootstrap.css" rel="stylesheet" type="text/css" />
+<link href="../../dfiles/11447/templets/css/main.css" rel="stylesheet" type="text/css">
+<link href="../../dfiles/11447/templets/css/animate.css" rel="stylesheet" type="text/css" />
+<script src="../../dfiles/11447/templets/js/bdtxk.min.js"></script>
+<script src="../../dfiles/11447/templets/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="../../dfiles/11447/templets/css/owl.carousel.css">
+<script src="../../dfiles/11447/templets/js/wow.min.js"></script>
+<script src="../../dfiles/11447/templets/js/owl.carousel.js"></script>
+<script src="../../dfiles/11447/templets/js/script.js"></script>
+
+<!--Announced by Visual SiteBuilder 9-->
+<link rel="stylesheet" type="text/css" href="../../_sitegray/_sitegray_d.css" />
+<script language="javascript" src="../../_sitegray/_sitegray.js"></script>
+<!-- CustomerNO:7765626265723230657847545255554703090002 -->
+<link rel="stylesheet" type="text/css" href="../../szll.vsb.css" />
+<script type="text/javascript" src="/system/resource/js/counter.js"></script>
+<script type="text/javascript">_jsq_(1021,'/szll.jsp',-1,1472809313)</script>
+</head>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+      $(".top-search-icon").on("click",function(){
+        $(this).hide();
+        $(".top-search").css("display","inline-block");
+        
+      });
+
+      $(".top-search .icon").on("click",function(){
+        $(".top-search-icon").show();
+        $(".top-search").css("display","none");
+      });
+
+
+      //回顶部
+      $(window).scroll(function(){
+        var offest = $(window).scrollTop();
+      });
+      $(".scroll-close").on("click",function(){
+        $(".scroll-top").hide();
+      });
+
+
+      $(".left ul li").on("click",function(){
+        $(this).addClass("leftOn").siblings().removeClass("leftOn");
+      });
+      
+  });
+</script>
+
+<body>
+
+  <div class="top">
+    <div class="container">
+        <span>计算机科学与技术学院欢迎你</span>
+        <span>|</span>
+        <span class="top-search-icon"></span>
+        <span class="top-search"><script type="text/javascript">
+    function _nl_ys_check(){
+        
+        var keyword = document.getElementById('showkeycode204389').value;
+        if(keyword==null||keyword==""){
+            alert("请输入你要检索的内容！");
+            return false;
+        }
+        if(window.toFF==1)
+        {
+            document.getElementById("lucenenewssearchkey204389").value = Simplized(keyword );
+        }else
+        {
+            document.getElementById("lucenenewssearchkey204389").value = keyword;            
+        }
+        var  base64 = new Base64();
+        document.getElementById("lucenenewssearchkey204389").value = base64.encode(document.getElementById("lucenenewssearchkey204389").value);
+        new VsbFormFunc().disableAutoEnable(document.getElementById("showkeycode204389"));
+        return true;
+    } 
+</script>
+<form action="../../search.jsp?wbtreeid=1021" method="post" id="au0a" name="au0a" onsubmit="return _nl_ys_check()" style="display: inline">
+ <input type="hidden" id="lucenenewssearchkey204389" name="lucenenewssearchkey" value=""><input type="hidden" id="_lucenesearchtype204389" name="_lucenesearchtype" value="1"><input type="hidden" id="searchScope204389" name="searchScope" value="0">
+ <input type="text" name="showkeycode" id="showkeycode204389" class="search-input" placeholder="请输入关键字"><span class="icon"></span>
+</form><script language="javascript" src="/system/resource/js/base64.js"></script><script language="javascript" src="/system/resource/js/formfunc.js"></script>
+</span>
+    </div>
+  </div>
+    <nav class="navbar navbar-default " role="navigation">
+            <div class="container">
+   
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav" style="margin-top: 15px;">
+                        <span class="sr-only">Toggle Navigation</span>
+                       <!--<i class="fa fa-bars"></i>-->
+                       <i class="navbar-icon"></i>
+                    </button>
+                    
+<a href="../../index.htm" class="navbar-brand navbar-logo"><img src="../../dfiles/11447/templets/images/logo.jpg" alt="哈工大计算机学院" style="height:50px; width:auto; vertical-align:bottom;"></a>
+                </div>
+                <!-- MAIN NAVIGATION -->
+                <div id="main-nav" class="navbar-collapse collapse navbar-mega-menu">
+                    <ul class="nav navbar-nav navbar-right">
+
+<li>
+    <a href="../../index.htm" title="首页">首页</a>
+</li>
+
+
+<li class="dropdown ">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">学院简介</a>
+    <ul class="dropdown-menu" role="menu">
+        <li><a href="../../xyjj/jj.htm">简介</a></li>
+        <li><a href="../../xyjj/xyld.htm">学院领导</a></li>
+        <li><a href="../../xyjj/xybgs.htm">学院办公室</a></li>
+        <li><a href="../../xyjj/xgb.htm">学工办</a></li>
+    </ul>
+</li>
+
+
+<li class="dropdown ">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">新闻通知</a>
+    <ul class="dropdown-menu" role="menu">
+        <li><a href="../../xwtz/zhxw.htm">综合新闻</a></li>
+        <li><a href="../../xwtz/xsjz.htm">学术讲座</a></li>
+        <li><a href="../../xwtz/xsgz.htm">学生工作</a></li>
+        <li><a href="../../xwtz/tzgg.htm">通知公告</a></li>
+    </ul>
+</li>
+
+
+<li class="dropdown active">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">师资力量</a>
+    <ul class="dropdown-menu" role="menu">
+        <li><a href="../ys.htm">院士</a></li>
+        <li><a href="../qzjs.htm">全职教师</a></li>
+        <li><a href="../sjdjs.htm">双基地教师</a></li>
+        <li><a href="../tpjs.htm">特聘教师</a></li>
+        <li><a href="../fwjs.htm">访问教授</a></li>
+        <li><a href="../bsh.htm">博士后</a></li>
+    </ul>
+</li>
+
+
+<li class="dropdown ">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">党建工作</a>
+    <ul class="dropdown-menu" role="menu">
+        <li><a href="../../djgz1/djgz.htm">党建工作</a></li>
+        <li><a href="../../djgz1/dsxxjy.htm">党史学习教育</a></li>
+    </ul>
+</li>
+
+
+<li class="dropdown ">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">人才培养</a>
+    <ul class="dropdown-menu" role="menu">
+        <li><a href="../../rcpy/pyms.htm">培养模式</a></li>
+        <li><a href="../../rcpy/zsjh.htm">招生计划</a></li>
+        <li><a href="../../rcpy/kcsz.htm">课程设置</a></li>
+        <li><a href="../../rcpy/zyxz.htm">资源下载</a></li>
+        <li><a href="../../rcpy/jxgg.htm">教学改革</a></li>
+    </ul>
+</li>
+
+
+<li class="dropdown ">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">工程硕士</a>
+    <ul class="dropdown-menu" role="menu">
+        <li><a href="../../gcss/xwzx.htm">新闻中心</a></li>
+        <li><a href="../../gcss/tzgg.htm">通知公告</a></li>
+        <li><a href="../qzjs.htm">师资力量</a></li>
+        <li><a href="../../gcss/kcsz.htm">课程设置</a></li>
+        <li><a href="../../gcss/xspy.htm">学生培养</a></li>
+        <li><a href="../../gcss/xwlw.htm">学位论文</a></li>
+        <li><a href="../../gcss/zsxx.htm">招生信息</a></li>
+        <li><a href="../../gcss/xstd.htm">学生天地</a></li>
+    </ul>
+</li>
+
+
+<li class="dropdown ">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">学术科研</a>
+    <ul class="dropdown-menu" role="menu">
+        <li><a href="../../xsky/yjfx.htm">研究方向</a></li>
+        <li><a href="../../xsky/kyxm.htm">科研项目</a></li>
+        <li><a href="../../xsky/xmtj.htm">项目推介</a></li>
+        <li><a href="../../xsky/kycg.htm">科研成果</a></li>
+        <li><a href="../../xsky/yjzx.htm">研究中心</a></li>
+    </ul>
+</li>
+
+
+<li class="dropdown ">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">合作交流</a>
+    <ul class="dropdown-menu" role="menu">
+        <li><a href="../../hzjl/gjjl.htm">国际交流</a></li>
+        <li><a href="../../hzjl/xqhz.htm">校企合作</a></li>
+    </ul>
+</li>
+
+
+<li>
+    <a href="../../ITxsy.htm">IT新视野</a>
+</li>
+                    
+
+
+<li>
+    <a href="http://47.107.80.223:28100/">人才招聘</a>
+</li>
+                    
+</ul>
+                </div>
+                
+                <!-- END MAIN NAVIGATION -->
+            </div>
+      </nav>
+
+
+
+      <div class="grid_2">
+          <div class="container">
+              <div class="list">
+
+                <div class="left">
+                  <h3 class="left-title">师资力量
+</h3>
+                  <ul><li onclick="window.location.href='../ys.htm'">院士</li>
+                    
+<li class="leftOn" onclick="window.location.href='../qzjs.htm'">全职教师</li>
+                    
+<li onclick="window.location.href='../sjdjs.htm'">双基地教师</li>
+                    
+<li onclick="window.location.href='../tpjs.htm'">特聘教师</li>
+                    
+<li onclick="window.location.href='../fwjs.htm'">访问教授</li>
+                    
+<li onclick="window.location.href='../bsh.htm'">博士后</li>
+                    
+</ul>
+                </div>
+
+                <div class="right">
+                  <div class="right-box">
+                    <div class="right-title"><h3>师资力量
+&nbsp; / &nbsp;全职教师</h3><div class="right-nav">    师资力量
+    <span>&gt;</span>全职教师
+</div></div>
+                    <div class="list-box">
+                      <div class="teacher-content">
+
+<script language="javascript" src="/system/resource/js/dynclicks.js"></script><script language="javascript" src="/system/resource/js/ajax.js"></script><ul>
+                        
+<li id="line_u8_0">
+                            <div class="teacher-left">
+                              <img class="teacher-img" src="/__local/D/9E/A6/52EC6B85988017491970EEE9552_21BB9F44_FF5D.png">
+                              <p class="teacher-name">陈勇勇</p>
+                            </div>
+                            <div class="teacher-box">
+                              <dl><dt>任职：</dt><dd>助理教授</dd></dl>
+                              <dl><dt>电话：</dt><dd> </dd></dl>
+                              <dl><dt>传真：</dt><dd> </dd></dl>
+                              <dl><dt>Email：</dt><dd><a href="mailto:cyy2020@hit.edu.cn">cyy2020@hit.edu.cn</a></dd></dl>
+                              <dl><dt>研究方向：</dt><dd> 计算机视觉,机器学习,模式识别</dd></dl>
+                              <a href="http://faculty.hitsz.edu.cn/chenyongyong" class="teacher-link">查看简历</a>
+                            </div>
+                          </li>
+<li id="line_u8_1">
+                            <div class="teacher-left">
+                              <img class="teacher-img" src="/__local/B/E9/30/38927209CBD3E971B6AA7C6ACD7_8B86C04C_19B5.gif">
+                              <p class="teacher-name">户保田</p>
+                            </div>
+                            <div class="teacher-box">
+                              <dl><dt>任职：</dt><dd>助理教授，硕士生导师</dd></dl>
+                              <dl><dt>电话：</dt><dd> 13691640856</dd></dl>
+                              <dl><dt>传真：</dt><dd> </dd></dl>
+                              <dl><dt>Email：</dt><dd><a href="mailto:hubaotian@hit.edu.cn">hubaotian@hit.edu.cn</a></dd></dl>
+                              <dl><dt>研究方向：</dt><dd></dd></dl>
+                              <a href="../../info/1021/2296.htm" class="teacher-link">查看简历</a>
+                            </div>
+                          </li>
+<li id="line_u8_2">
+                            <div class="teacher-left">
+                              <img class="teacher-img" src="/__local/9/35/F1/A2AAF945834AC6DC42943E14615_E1A99287_112EA.jpg">
+                              <p class="teacher-name">张加佳</p>
+                            </div>
+                            <div class="teacher-box">
+                              <dl><dt>任职：</dt><dd>副研究员</dd></dl>
+                              <dl><dt>电话：</dt><dd> 15989359103</dd></dl>
+                              <dl><dt>传真：</dt><dd> </dd></dl>
+                              <dl><dt>Email：</dt><dd><a href="mailto: zhangjiajia@hit.edu.cn"> zhangjiajia@hit.edu.cn</a></dd></dl>
+                              <dl><dt>研究方向：</dt><dd>机器博弈决策、金融博弈决策、多智能体目标规划</dd></dl>
+                              <a href="http://faculty.hitsz.edu.cn/zhangjiajia" class="teacher-link">查看简历</a>
+                            </div>
+                          </li>
+<li id="line_u8_3">
+                            <div class="teacher-left">
+                              <img class="teacher-img" src="/__local/2/2E/84/02E3F0746604F1D2A12187A488E_D79C7CCF_11669.png">
+                              <p class="teacher-name">裴文杰</p>
+                            </div>
+                            <div class="teacher-box">
+                              <dl><dt>任职：</dt><dd>助理教授，硕士生导师</dd></dl>
+                              <dl><dt>电话：</dt><dd> </dd></dl>
+                              <dl><dt>传真：</dt><dd> </dd></dl>
+                              <dl><dt>Email：</dt><dd><a href="mailto:wenjiecoder@outlook.com; wenjiecoder@gmail.com">wenjiecoder@outlook.com; wenjiecoder@gmail.com</a></dd></dl>
+                              <dl><dt>研究方向：</dt><dd>计算机视觉，模式识别，机器学习</dd></dl>
+                              <a href="../../info/1021/2329.htm" class="teacher-link">查看简历</a>
+                            </div>
+                          </li>
+</ul>
+<br />
+<link rel="stylesheet" Content-type="text/css" href="/system/resource/css/pagedown/sys.css"><div class="pb_sys_common pb_sys_short pb_sys_style1" style="margin-top:10px;text-align:center;"><span class="p_t">共44条</span> <span class="p_pages"><span class="p_first p_fun"><a href="../qzjs.htm">首页</a></span><span class="p_prev p_fun"><a href="2.htm">上页</a></span><span class="p_no"><a href="../qzjs.htm">1</a></span><span class="p_no"><a href="5.htm">2</a></span><span class="p_no"><a href="4.htm">3</a></span><span class="p_no"><a href="3.htm">4</a></span><span class="p_no"><a href="2.htm">5</a></span><span class="p_no_d">6</span><span class="p_next_d p_fun_d">下页</span><span class="p_last_d p_fun_d">尾页</span></span> <span class="p_t">6/6</span> <span class="p_t">到第</span><span class="p_goto"><script language="javascript" src="/system/resource/js/gotopage.js"></script><input type="text" class="p_goto_input" maxlength="10" id="u8_goto" onkeydown="if(event.keyCode==13){_simple_list_gotopage_fun(6,&quot;u8_goto&quot;,2)}" spellcheck="false"></span><span class="p_t">页</span> <span class="p_goto"><a href="javascript:;" onclick="_simple_list_gotopage_fun(6,&quot;u8_goto&quot;,2)">跳转</a></span></div><script>_showDynClickBatch(['dynclicks_u8_2643','dynclicks_u8_2296','dynclicks_u8_2599','dynclicks_u8_2329'],[2643,2296,2599,2329],"wbnews", 1472809313)</script></div>
+                    </div>
+                    
+ <p class="clickMore" onclick="window.location.href='list_6_2.html'"><span>点击加载更多...</span></p>
+
+                  </div>
+                </div>
+
+
+              </div>
+              
+          </div>
+      </div>
+
+
+    <!--底部-->
+    <div class="footer">
+      <div class="container">
+            <div class="footer-left"><!-- 版权内容请在本组件"内容配置-版权"处填写 -->
+<dl><dt></dt><dd>Tel : &nbsp;+86-755-26032463</dd></dl><dl><dt style="background-position: -20px 0px;"></dt><dd>邮编: 518055</dd></dl><dl><dt style="background-position: -40px 0px;"></dt><dd>中国深圳西丽深圳大学城哈工大校区L栋1419-1420室计算机学院办公室</dd></dl><dl><dd style="margin-left: 0px;">Copyright © 2017-2018 版权所有 哈尔滨工业大学（深圳）计算机科学与技术学院</dd></dl></div>
+      </div>
+    </div>
+
+
+    <div class="scroll-top">
+      <span class="scroll-close">×</span>
+      <a href="javascript:scroll(0,0)" class="scroll-icon"></a>
+      <script language="javascript" src="/system/resource/js/openlink.js"></script>     
+<a href="http://d.eqxiu.com/s/GB0FuYdg?eqrcode=1&amp;from=groupmessage&amp;isappinstalled=0" class="srcoll-btn" target="_blank" onclick="_addDynClicks(&#34;wburl&#34;, 1472809313, 41760)">学术夏令营</a>
+      
+<a href="../../rcpy/zsjh.htm" class="srcoll-btn" target="_blank" onclick="_addDynClicks(&#34;wburl&#34;, 1472809313, 41761)">招生信息</a>
+      
+
+    </div>
+
+
+</body>
+</html>
